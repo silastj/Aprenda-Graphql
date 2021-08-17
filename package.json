@@ -1,0 +1,20 @@
+{
+  "name": "schema-query",
+  "version": "1.0.0",
+  "description": "Curso cod3r udemy C&A",
+  "main": "index.js",
+  "author": "Silas",
+  "license": "ISC",
+  "private": false,
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "dependencies": {
+    "apollo-server": "",
+    "graphql": ""
+  },
+  "devDependencies": {
+    "nodemon": ""
+  }
+}
