@@ -11,10 +11,10 @@
   },
   "keywords": [],
   "dependencies": {
-    "apollo-server": "",
-    "graphql": ""
+    "apollo-server": "^2.4.8",
+    "graphql": "^14.2.1"
   },
   "devDependencies": {
-    "nodemon": ""
+    "nodemon": "^1.18.10"
   }
 }
