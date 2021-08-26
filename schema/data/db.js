@@ -11,20 +11,24 @@ const usuarios = [{
     nome: 'Ana',
     email: 'ana@ana.com.br',
     idade:15,
-    perfil_id:1
+    perfil_id:1,
+    status: 'ATIVO'
+
 },{
     id:2,
     nome: 'Maria',
     email: 'maria@maria.com.br',
     idade:16,
-    perfil_id:2
+    perfil_id:2,
+    status: 'BLOQUEADO'
 },
 {
     id:3,
     nome: 'Joana',
     email: 'joana@joana.com.br',
     idade:17,
-    perfil_id:1
+    perfil_id:1,
+    status: 'INATIVO'
 }]
 
 const funcionarios = [{
