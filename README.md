@@ -19,6 +19,9 @@
 - --ext js, graphql
 - "start": "nodemon --ext js, graphql"
 
+### CRUD DO GRAPHQL ###
+ - Query - Ler os dados
+ - Mutations - Inserir - Incluir e Excluir
 
 ### ANOTAÇÕES ###
 
